@@ -69,8 +69,6 @@ The dataset contains audio files categorized into multiple genres such as:
 - Visualized training and validation accuracy
 - Generated performance evaluation metrics
 
-(Add your actual accuracy value here)
-
 ---
 
 
