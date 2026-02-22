@@ -73,8 +73,4 @@ The dataset contains audio files categorized into multiple genres such as:
 
 ---
 
-## ▶️ How to Run
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/Raamyaarb/Music-Genre-Classification-using-Deep-Learning-CNN-.git
